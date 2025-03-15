@@ -418,7 +418,6 @@ UserInterfaceState.xcuserstate
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.nar
 *.ear
@@ -516,7 +515,8 @@ vendor/
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
